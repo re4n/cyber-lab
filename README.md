@@ -6,8 +6,9 @@ Hands-on cybersecurity study repo: notes from a structured study track, plus a p
 
 ```
 cyber-lab/
-├── notes/     study notes (commands and lessons learned)
-└── homelab/   isolated networking and Linux lab
+├── notes/          study notes (commands and lessons learned)
+├── homelab/        isolated networking and Linux lab
+└── bandit-notes/   bandit notes levels
 ```
 
 ## Studies
